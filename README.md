@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hey ⛄
 
-<!--
-**Roujon2/Roujon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Jonathan and I'm currently in my fourth year studying Cognitive Sciene and Computer Science at McGill University.
+I'm currently working on adding small features on Moviespedia using React!
 
-Here are some ideas to get you started:
+## Main Projects
+- [Moviespedia](https://github.com/Roujon2/Moviespedia) 🎥
+- [Movie Swiper](https://github.com/Roujon2/MovieSwiper-Unfinished-)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Resume
+📄 [Check out my resume](https://docs.google.com/document/d/1z-fTp5lkkOUkqHiCi2NJIUs6EbwNGlP6u05a6sVXyhY/edit?usp=sharing)
+
+<a href="https://www.linkedin.com/in/jonathan-roulet-744998261/">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="LinkedIn" width="30">
+</a>
+
+## Programming Languajes
+- Java
+- Javascript
+- C#
+- C++
+- Python
+- HTML/CSS
+- Bash
+
+
+
