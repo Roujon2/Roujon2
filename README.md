@@ -5,6 +5,7 @@ I'm currently working on adding small features on Moviespedia using React!
 
 ## Main Projects
 - [Moviespedia](https://github.com/Roujon2/Moviespedia) 🎥
+- [Top Down Shooter](https://github.com/Roujon2/top-down-shooter) 🐒
 - [Movie Swiper](https://github.com/Roujon2/MovieSwiper-Unfinished-)
 
 ## Resume
@@ -14,7 +15,7 @@ I'm currently working on adding small features on Moviespedia using React!
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="LinkedIn" width="30">
 </a>
 
-## Programming Languajes
+## Programming Languages
 - Java
 - Javascript
 - C#
