@@ -1,6 +1,6 @@
 ### Hey ⛄
 
-Hi! I'm Jonathan and I'm currently in my fourth year studying Cognitive Sciene and Computer Science at McGill University.
+Hi! I'm Jonathan and I'm currently in my fourth year studying Cognitive Science and Computer Science at McGill University.
 I'm currently working on adding small features on Moviespedia using React!
 
 ## Main Projects
