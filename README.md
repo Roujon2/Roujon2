@@ -1,6 +1,7 @@
 ### Hey ⛄
 
 Hi! I'm Jonathan and I'm a graduate of Cognitive Science and Computer Science at McGill University.
+
 I'm currently working on 'Spekboom Mapper', a large-scale web application in React and Node.js!
 
 ## Main Projects
