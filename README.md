@@ -2,7 +2,7 @@
 
 Hi! I'm Jonathan and I'm a graduate of Cognitive Science and Computer Science at McGill University.
 
-I'm currently working for **BēKin**, building internal tools for their real estate platform in _Node.js_ and _PostgreSQL_. I'm also working for the **Municipality of Córdoba, Argentina**, developing and maintaining the front-end and back-end of the web application **Compras Electrónicas**.
+I've previously worked at **BēKin**, building internal tools for their real estate platform in _Node.js_ and _PostgreSQL_; and AGLEye Corp, building and maintaining a Full-Stack land classification website in _React_ and _Node.js_. I'm currently working for the **Municipality of Córdoba, Argentina**, developing and maintaining the front-end and back-end of the web application **Compras Electrónicas**.
 
 ## Main Projects
 - [Spekboom Mapper](https://github.com/Roujon2/PortulacariaHabitat)
